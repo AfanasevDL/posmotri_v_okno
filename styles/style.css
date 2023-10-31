@@ -14,7 +14,7 @@ html {
   block-size: 100%;
   margin: auto;
   color: #fff;
-  font-family: 'Fira Sans Condensed', sans-serif;
+  font-family: "Fira Sans Condensed", sans-serif;
   font-size: 18px;
   background-color: #1b1919;
   justify-content: center;
@@ -82,13 +82,12 @@ ol {
   justify-content: space-between;
 }
 
-
 .search-form__fieldset {
   border: none;
 }
 
 .search-form__fieldset-title {
-  color: #FFF;
+  color: #fff;
   font-family: Fira Sans Condensed;
   font-size: 18px;
   font-style: normal;
@@ -165,7 +164,7 @@ ol {
 }
 
 .search-form__pseudo-checkbox::before {
-  content: '';
+  content: "";
   display: none;
   width: 15px;
   height: 15px;
@@ -294,7 +293,7 @@ ol {
 }
 
 .content__video-card-title {
-  color: #FFF;
+  color: #fff;
   font-family: Oswald;
   font-size: 30px;
   font-style: normal;
@@ -305,7 +304,7 @@ ol {
 }
 
 .content__video-card-description {
-  color: #FFF;
+  color: #fff;
   font-family: Fira Sans Condensed;
   font-size: 18px;
   font-style: normal;
